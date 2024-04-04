@@ -1,0 +1,43 @@
+$ git log
+commit 9bdcec0673b08b50d13e3083e594d740269b34da (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: Ana <anadavidovska333@gmail.com>
+Date:   Thu Apr 4 23:16:19 2024 +0200
+
+    Bug fixed
+
+commit 35fb97068ae3533d01979e7fce7de07d3eb3a263
+Author: Ana <anadavidovska333@gmail.com>
+Date:   Thu Apr 4 22:56:45 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 446dd1ffcc6a65982fb56b53de33e81359b1dbf9
+Author: Ana <anadavidovska333@gmail.com>
+Date:   Thu Apr 4 22:53:57 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit aa23dd273da719ff9a0848ec596c1923343ba5b9 (origin/bug1, bug1)
+Author: Ana <anadavidovska333@gmail.com>
+Date:   Thu Apr 4 22:55:44 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit d761360df740aff4dc6c86504202ea6b19f2181a
+Author: Ana <anadavidovska333@gmail.com>
+Date:   Thu Apr 4 22:51:26 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 97bd2c728fe0a1b3ef877b5a165335161e86a022
+Author: Ana <anadavidovska333@gmail.com>
+Date:   Thu Apr 4 22:35:37 2024 +0200
+
+    Add starter code
+
+commit 128c4bdc85b054c3d4b07a1fb82c03661131d93c
+Author: Ana <anadavidovska333@gmail.com>
+Date:   Thu Apr 4 22:30:09 2024 +0200
+
+    Initial commit
+
